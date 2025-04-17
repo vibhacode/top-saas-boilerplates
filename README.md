@@ -21,6 +21,9 @@ _Browse this collection to find the perfect foundation for your next SaaS projec
 ## SwiftUI
 - [WrapFast](https://wrapfa.st?via=juanjo) - All you need to build any iOS app FAST
 
+## Remix
+- [SaasRock](https://saasrock.com/?via=rock) - Build, Market, and Manage your B2B app with the Remix (RR7)
+
 ---
 
 ## Contributing

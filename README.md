@@ -4,8 +4,6 @@ A curated list of the best SaaS boilerplates (starter kits). Organized by tech s
 
 _Browse this collection to find the perfect foundation for your next SaaS project!_
 
-## JavaScript/TypeScript
-
 ### Next.js
 - [ShipFast](https://shipfa.st/?via=marclou) - Launch your SaaS in days, not months
 - [Makerkit](https://makerkit.dev?atp=exil0867) - The complete SaaS starter kit for Next.js

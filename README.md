@@ -15,6 +15,9 @@ _Browse this collection to find the perfect foundation for your next SaaS projec
 ### Django
 - [SaaS Pegasus](https://www.saaspegasus.com/?via=coryzue) - The Django SaaS boilerplate
 
+### React.js
+- [Divjoy](https://divjoy.com/?via=gabe) - The React codebase generator
+
 ---
 
 ## Contributing

@@ -13,6 +13,11 @@ _Browse this collection to find the perfect foundation for your next SaaS projec
 - [Builderkit.ai](https://builderkit.ai?aff=5OGD6k) - Ship AI apps super fast with this modular NextJS boilerplate
 - [Shipped](https://shipped.club?aff=5OGD6k) - The Next.js SaaS Boilerplate for busy developers
 - [Supaboost](https://www.supaboost.dev/?aff=5OGD6k) - All-in-One Supabase and NextJS SaaS Starter Kit
+- [TurboStarter](https://turbostarter.dev?aff=5OGD6k) - Production-ready SaaS starter kit with all the essentials
+
+### Laravel
+- [Larafast](https://larafast.com?aff=5OGD6k) - Laravel SaaS starter
+- [SaaSykit](https://saasykit.com?aff=5OGD6k) - Laravel SaaS kit
 
 ### React Native
 - [NativeExpress](http://native.express/?ref=robinfar) - React Native boilerplate for mobile SaaS
